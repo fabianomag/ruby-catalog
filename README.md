@@ -47,9 +47,8 @@ $ rspec
 
 👤 **Fabiano Frank**
 
-- GitHub: [@fabianofrank](https://github.com/fabianofrank)
-- Twitter: [@fabianofrankk](https://twitter.com/fabianofrankk)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianofrank/)
+- GitHub: [@fabianomag](https://github.com/fabianomag)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianomag/)
 
 👤 **Firdavs Allamurotov**
 
