@@ -45,10 +45,10 @@ $ rspec
 
 ## Author
 
-👤 **Fabiano Frank**
+👤 **Fabiano Magalhaes**
 
 - GitHub: [@fabianomag](https://github.com/fabianomag)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fabianomag/)
+- LinkedIn: [@fabianomag](https://www.linkedin.com/in/fabianomag/)
 
 👤 **Firdavs Allamurotov**
 
