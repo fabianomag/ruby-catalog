@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 ### Setup
 
 ```bash
-$ git clone git@github.com:fabianofrank/ruby-catalog.git
+$ git clone git@github.com:fabianomag/ruby-catalog.git
 $ cd ruby-catalog
 ```
 
@@ -45,7 +45,7 @@ $ rspec
 
 ## Author
 
-👤 **Fabiano Magalhaes**
+👤 **Fabiano Magalhães**
 
 - GitHub: [@fabianomag](https://github.com/fabianomag)
 - LinkedIn: [@fabianomag](https://www.linkedin.com/in/fabianomag/)
